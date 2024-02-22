@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A dedicated frontend developer with a keen eye for crafting seamless and visually appealing user experiences</h3>
 
 - 🌱 I’m currently learning **React, Bootstrap**
 
